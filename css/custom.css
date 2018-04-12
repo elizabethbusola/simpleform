@@ -1,0 +1,11 @@
+.love{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+div.love-logo img{
+    width: 120px;
+     border: 2px solid black;
+    border-radius: 6px;
+
+}
